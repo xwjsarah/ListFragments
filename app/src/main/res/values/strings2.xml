@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="book_titles">
+        <item>The Bell Jar by Sylvia Plath (1961)</item>
+        <item>Gone with the Wind by Margaret Mitchell (1936)</item>
+        <item>The Scarlet Letter by Nathaniel Hawthorne (1850)</item>
+        <item>1984 by George Orwell </item>
+        <item>The Catcher in the Rye by J.D Salinger (1951)</item>
+        <item>Animal Farm by George Orwell (1949)</item>
+    </string-array>
+
+    <string-array name="summaries">
+        <item>A sombre coming of age story where the protagonist, Esther, deals with a series of life-changing experiences
+            most would approach with pleasure and excitement, but as Esther moves forward on her journey she descends deeper into madness.
+            This book provides an in-depth look at mental health and the conventional expectations
+            placed on women at the time. Just don’t take this book to the beach with you.</item>
+        <item>One of my absolute favourite books of all time – it’s not a light read and the sheer size
+            of it (1000+ page) may put even the most devout literary buffs off, but once you get into
+             the world of Scarlett O’Hara you’ll fall in love with the South and all its trimmings.
+             A historical novel that has you rooting for a rich spoilt heroine whose bound and determined to survive.
+             Read this book when you need that extra bump of determination and may there be a little Scarlett O’Hara in all of us.
+        </item>
+        <item>Hawthorne can be a bit tedious at times but who doesn’t like a sultry book
+            about sin and lust? He was writing about the Puritan society of 1642 so don’t think you’re in for a
+            sequel to 50 Shades of Grey. Once you figure out the language of the time you’ll uncover that poor Hester
+            Prynne must wear a scarlet ‘A’ on her chest at all times to signal to the world that she is an adulteress
+            – imagine that in today’s London!
+        </item>
+        <item>Written 35 years before its dated title, 1984 is a dystopian prediction of what the future holds,
+            which is a lot of tyranny, censorship, mind control, public surveillance (Big Brother) and war. Orwell
+            explores what used to be England and is now an authoritarian state. Translated into more than 65 languages,
+            this is an important work of science fiction. A book that helps us examine what our fundamental freedoms
+            are and will question just about everything you thought you knew.
+        </item>
+
+        <item>Holden Caulfield is a 16-year-old undergoing treatment in a mental facility. The story
+            takes place in New York where Holden spends three days prior to returning to his parents home
+            for Christmas, after he’s recently been expelled from school. What follows is a diatribe of meetings,
+            calls and random occurrences when he seems to be obsessed with where the birds from central park go when
+            the water freezes. The story explores alienation and loneliness as well as the struggle of growing up.
+        </item>
+        <item>Animal Farm by George Orwell (1949): George Orwell was a crafty fellow. I read this for
+            the first time when I was in high school and I had no idea it went any deeper than a bunch of
+            animals bound together to take over a farm from a farmer. Of course, it soon became clear that this
+            is an important piece of historical literature. It’s a critique of the Russian Revolution and symbolizes
+            better than anything else I’ve ever read, the rule of a dictator (Joseph Stalin in this instance) in their country.
+            Set aside your personal political views to get a better understanding of the ideologies this book presents on freedom and equality.
+        </item>
+    </string-array>
+
+
+</resources>
+
